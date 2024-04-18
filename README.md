@@ -19,6 +19,12 @@ To get started with our To-Do List App, simply follow these steps:
 3. **Manage Tasks**: Once added, your tasks will appear in the list below. You can mark tasks as completed by clicking on them. To delete a task, click the "Delete" button next to it.
 4. **Stay Organized**: Keep your tasks organized and stay on top of your to-do list effortlessly with our intuitive app.
 
+## Screenshots
+
+https://drive.google.com/file/d/1kbVkIAGNvIYQT3t7-FtgztQ_pZZ-a_je/view?usp=drive_link
+https://drive.google.com/file/d/1S2OmkqPqmItK0k3wKM7mtZ60kv5Xra3F/view?usp=drive_link
+https://drive.google.com/file/d/1XSXA6vJyt6oZOVefHKuv67aNFnfyuFYj/view?usp=drive_link
+
 ## Contributing
 
 We welcome contributions from the community to improve our To-Do List App further. If you have any ideas for new features, enhancements, or bug fixes, please feel free to fork the repository, make your changes, and submit a pull request. We appreciate your support in making our app even better!
